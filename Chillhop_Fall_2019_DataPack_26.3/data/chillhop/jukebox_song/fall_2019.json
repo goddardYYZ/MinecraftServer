@@ -1,0 +1,11 @@
+{
+  "sound_event": {
+    "sound_id": "chillhop:music_disc.fall_2019",
+    "range": 64.0
+  },
+  "description": {
+    "text": "Chillhop Essentials - Fall 2019"
+  },
+  "length_in_seconds": 4002.134,
+  "comparator_output": 11
+}

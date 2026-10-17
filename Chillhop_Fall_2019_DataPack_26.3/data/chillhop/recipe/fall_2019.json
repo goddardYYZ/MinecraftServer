@@ -1,0 +1,46 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " O ",
+    "CDC",
+    " L "
+  ],
+  "key": {
+    "O": "minecraft:orange_dye",
+    "C": "minecraft:copper_ingot",
+    "D": "minecraft:music_disc_13",
+    "L": "minecraft:oak_leaves"
+  },
+  "result": {
+    "id": "minecraft:music_disc_13",
+    "count": 1,
+    "components": {
+      "minecraft:item_model": "chillhop:fall_2019",
+      "minecraft:item_name": {
+        "text": "Chillhop Essentials - Fall 2019",
+        "color": "gold",
+        "italic": false
+      },
+      "minecraft:jukebox_playable": "chillhop:fall_2019",
+      "minecraft:lore": [
+        {
+          "text": "Warm beats for crisp autumn evenings",
+          "color": "gray",
+          "italic": false
+        },
+        {
+          "text": "Complete mix • 66:42",
+          "color": "dark_gray",
+          "italic": false
+        }
+      ],
+      "minecraft:custom_data": {
+        "chillhop": {
+          "disc": "fall_2019"
+        }
+      }
+    }
+  },
+  "show_notification": true
+}

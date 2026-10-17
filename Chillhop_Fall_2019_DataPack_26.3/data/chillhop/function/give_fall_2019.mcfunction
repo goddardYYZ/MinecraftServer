@@ -1,0 +1,2 @@
+# Grants Chillhop Essentials - Fall 2019 to the executing player.
+give @s minecraft:music_disc_13[item_model="chillhop:fall_2019",item_name={text:"Chillhop Essentials - Fall 2019",color:"gold",italic:false},jukebox_playable="chillhop:fall_2019",lore=[{text:"Warm beats for crisp autumn evenings",color:"gray",italic:false},{text:"Complete mix • 66:42",color:"dark_gray",italic:false}],custom_data={chillhop:{disc:"fall_2019"}}] 1
